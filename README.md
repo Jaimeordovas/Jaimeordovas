@@ -13,11 +13,11 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript  
+- **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript
 - **Web Development**: 🎨 HTML | 🎨 CSS
 - **Data & Math Tools**: 📊 R | 🔢 MATLAB
 - **Database Management**: 🛢️ MySQL | 🍃 MongoDB  
-- **Tools & DevOps**: 🐙 Git | 🐳 Docker
+- **Tools & DevOps**: 🐙 Git
 
 ---
 
