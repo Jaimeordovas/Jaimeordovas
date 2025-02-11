@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaime Ordovás!
 
-<!--
-**Jaimeordovas/Jaimeordovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering student at UFV**  
+🚀 Passionate about **web & mobile development, system design, and automation**  
+💡 Always **exploring new technologies** and **improving my coding skills**  
+👥 Love working in **team environments** to build **scalable and impactful solutions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de Vitoria (UFV)** in Madrid. I thrive on solving real-world problems through technology and enjoy working on projects that make a difference. My main focus is **full-stack development**, **software architecture**, and **cloud computing**.
+
+---
+
+## 🛠️ Skills
+- **Programming Languages**: 🐍 Python | ☕ Java | 🌐 JavaScript | ⚡ C++  
+- **Web Development**: 🎨 HTML | 🎨 CSS | ⚛️ React | 🟢 Node.js  
+- **Mobile Development**: 📱 Flutter | 🍏 Swift  
+- **Database Management**: 🛢️ MySQL | 🍃 MongoDB  
+- **Tools & DevOps**: 🐙 Git | 🐳 Docker | 🛠️ Jenkins  
+
+---
+
+## 🚀 Projects
+### 📌 **University Parking Manager App**  
+A mobile app designed to **streamline university parking**, allowing students and staff to register their parking locations, set durations, and report violations.  
+🔗 **[Project Repository](https://github.com/Jaimeordovas/UniversityParkingManager)**  
+
+### 🎾 **Masters Tennis Madrid Management System**  
+A system for **managing player registrations, match schedules, and results** for the Masters Tennis Madrid tournament.  
+🔗 **[Project Repository](https://github.com/Jaimeordovas/TennisMadridManagement)**  
+
+---
+
+## 🎓 Education
+🏫 **Universidad Francisco de Vitoria (UFV)**, Madrid  
+📅 *Bachelor of Science in Computer Engineering* (Expected Graduation: 2025)  
+
+---
+
+## 📬 Contact
+📩 **Email**: [jaime.ordovas@example.com](mailto:jaime.ordovas@example.com)  
+🔗 **LinkedIn**: [Jaime Ordovás](https://www.linkedin.com/in/jaime-ordov%C3%A1s-curbera-47089b22b)  
+📂 **GitHub**: [Jaimeordovas](https://github.com/Jaimeord
