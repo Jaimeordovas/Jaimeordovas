@@ -13,7 +13,7 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript
+- **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript | 🏎️ Z80 Assembly
 - **Web Development**: 🎨 HTML | 🎨 CSS
 - **Data & Math Tools**: 📊 R | 🔢 MATLAB
 - **Database Management**: 🛢️ MySQL | 🍃 MongoDB  
@@ -25,6 +25,10 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 ### 📌 **University Parking Manager App**  
 A mobile app designed to **streamline university parking**, allowing students and staff to register their parking locations, set durations, and report violations.  
 🔗 **[Project Repository](https://github.com/Jaimeordovas/UniversityParkingManager)**  
+
+### 🏎️ **Z80 Assembly Arkanoid Project**  
+Developed a **low-level arkanoid game for the Z80 microprocessor**, implementing optimized assembly routines.  
+🔗 **[Project Repository](https://github.com/Jaimeordovas/Z80Project)**  
 
 ---
 
