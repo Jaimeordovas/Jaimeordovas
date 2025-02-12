@@ -39,6 +39,6 @@ Developed a **low-level arkanoid game for the Z80 microprocessor**, implementing
 ---
 
 ## 📬 Contact
-📩 **Email**: [jaime.ordovas@example.com](mailto:jaime.ordovas@example.com)  
+📩 **Email**: [jocraha@gmail.com](mailto:jocraha@gmail.com)  
 🔗 **LinkedIn**: [Jaime Ordovás](https://www.linkedin.com/in/jaime-ordov%C3%A1s-curbera-47089b22b)  
 📂 **GitHub**: [Jaimeordovas](https://github.com/Jaimeordovas).
