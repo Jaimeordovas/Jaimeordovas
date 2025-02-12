@@ -15,8 +15,8 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 ## 🛠️ Tools & Skills
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="cs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 </p>
 - **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript | 🏎️ Assembly | 🐢 Shell Script
 - **Web Development**: 🎨 HTML | 🎨 CSS
