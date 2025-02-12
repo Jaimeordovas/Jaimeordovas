@@ -28,7 +28,7 @@ A mobile app designed to **streamline university parking**, allowing students an
 
 ### 🏎️ **Z80 Assembly Arkanoid Project**  
 Developed a **low-level arkanoid game for the Z80 microprocessor**, implementing optimized assembly routines.  
-🔗 **[Project Repository](https://github.com/Jaimeordovas/Z80Project)**  
+🔗 **[Project Repository](https://github.com/Jaimeordovas/UFV/tree/main/Segundo/AOC/AOC_MainFolder)**  
 
 ---
 
