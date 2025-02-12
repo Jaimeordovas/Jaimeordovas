@@ -17,12 +17,38 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="cs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="c" width="45" height="45"/>
 </p>
 - **Programming Languages**: 🌐 C | ⚡ C# | 🎯 JavaScript | 🏎️ Assembly | 🐢 Shell Script
 - **Web Development**: 🎨 HTML | 🎨 CSS
 - **Data & Math Tools**: 📊 R | 🔢 MATLAB
 - **Database Management**: 🛢️ MySQL | 🍃 MongoDB  
 - **Tools & DevOps**: 🐙 Git
+
+## 🛠️ Technologies & Tools  
+
+### 🚀 Programming Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Zilog_Z80.svg/120px-Zilog_Z80.svg.png" alt="Assembly" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell Script" width="45" height="45"/>  
+
+### 🎨 Web Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>  
+
+### 📊 Data & Math Tools  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>  
+
+### 🛢️ Database Management  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>  
+
+### ⚙️ Tools & DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>  
+
 
 ---
 
