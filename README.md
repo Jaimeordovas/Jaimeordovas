@@ -31,12 +31,8 @@ Developed a **low-level arkanoid game for the Z80 microprocessor**, implementing
 🔗 **[Project Repository](https://github.com/Jaimeordovas/UFV/tree/main/Segundo/AOC/AOC_MainFolder)**  
 
 ### 🏦 **SecureBank**  
-Developed a concurrent **banking system simulator using C and Linux** to manage real-time transactions with multi-user support. Implemented process synchronization using pipes, signals, semaphores, and message queues, ensuring secure and efficient access to shared resources. Integrated anomaly detection to monitor suspicious transactions and generate real-time alerts.
+Developed a concurrent **banking system simulator using C and Linux** to manage real-time transactions with multi-user support. Implemented process synchronization using pipes, signals, semaphores, and message queues, ensuring secure and efficient access to shared resources. Integrated anomaly detection to monitor suspicious transactions and generate real-time alerts.  
 🔗 **[Project Repository](https://github.com/Jaimeordovas/UFV/tree/main/Segundo/SSOO)**  
-
-
-
-
 
 ---
 
