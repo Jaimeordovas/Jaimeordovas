@@ -22,7 +22,7 @@ I'm Jaime Ordovás, a Computer Engineering student at **Universidad Francisco de
 ---
 
 ## 🚀 Projects
-### 📌 **University Parking Manager App**  
+### 📌 **CampusPark - University Parking Manager App**  
 A mobile app designed to **streamline university parking**, allowing students and staff to register their parking locations, set durations, and report violations.  
 🔗 **[Project Repository](https://github.com/Jaimeordovas/UniversityParkingManager)**  
 
